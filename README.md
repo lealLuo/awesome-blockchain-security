@@ -44,4 +44,14 @@ EOSIO公开了四个关于`wasm`库的可执行溢出漏洞
 
 `https://hackerone.com/eosio/hacktivity`
 
+## CVE-lists
 
+### Bitcoin
+
+[Bitcoin offical CVEs](https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures)
+
+包含39个漏洞，最早的漏洞是2010年7月公布，最近的漏洞是2019年2月公布，可从部分漏洞中找到完整的漏洞披露报告
+
+[CVE list](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=bitcoin)
+
+包含36个漏洞，CVE官方发布，可作辅助参考
